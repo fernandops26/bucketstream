@@ -1,0 +1,24 @@
+{
+  "name": "bucketstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandops26/bucketstream.git"
+  },
+  "dependencies": {
+    "aws-sdk": "2.356.0",
+    "randomstring": "1.1.5",
+    "psmitter": "1.0.0"
+  },
+  "author": "Fernando Palacios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandops26/bucketstream/issues"
+  },
+  "homepage": "https://github.com/fernandops26/bucketstream#readme"
+}
