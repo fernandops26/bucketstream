@@ -1,4 +1,4 @@
-const bucketStream = require('./lib/BucketStream');
+const bucketStream = require('./lib/Bucketstream');
 
 module.exports = opts => {
 	return bucketStream(opts);
